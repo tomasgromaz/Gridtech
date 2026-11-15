@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "GridTech · Technology Solutions",
+  "short_name": "GridTech",
+  "description": "Servicio técnico y desarrollo de apps en Mar del Plata, con atención a domicilio.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080B10",
+  "theme_color": "#080B10",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
